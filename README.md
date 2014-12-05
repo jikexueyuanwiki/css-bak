@@ -25,5 +25,5 @@ CSS定义如何显示HTML元素，全称:Cascading Style Sheet，实现结构与
 19. CSS hack
 
 参考：
-http://www.believec.com/page/course.php
-http://www.w3school.com.cn/css/index.asp
+* http://www.believec.com/page/course.php
+* http://www.w3school.com.cn/css/index.asp
